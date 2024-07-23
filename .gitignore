@@ -1,7 +1,6 @@
 *.pyc 
 pyfiiles
 *.pth
-_*
 g.sh
 *.tif
 del.txt
