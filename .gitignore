@@ -1,0 +1,11 @@
+*.pyc 
+*.pth
+_*
+g.sh
+*.tif
+del.txt
+del.py
+plots_imgs
+models 
+ckpts
+*.pt
