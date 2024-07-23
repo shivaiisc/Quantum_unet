@@ -1,4 +1,5 @@
 *.pyc 
+pyfiiles
 *.pth
 _*
 g.sh
