@@ -1,0 +1,1 @@
+test loss: {'test_ssim_loss': 0.0205, 'test_dice_loss': 0.3783, 'test_log_cosh_dice_loss': 0.0842, 'test_bce_loss': 0.0543, 'test_total_loss': 0.9998}
